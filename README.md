@@ -1,0 +1,1 @@
+A repository holding the exercises from the book Rust by Example
